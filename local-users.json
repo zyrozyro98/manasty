@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "admin-1759676936294",
+    "fullName": "مدير النظام",
+    "phone": "500000000",
+    "university": "الإدارة",
+    "major": "الإدارة",
+    "batch": "2024",
+    "password": "$2a$10$CeSZS.CfzSXq0pgDd58cDOAAyZ.DbUIMNoCaLBMYLkX/BfTvNsHVO",
+    "role": "admin",
+    "createdAt": "2025-10-05T15:08:56.294Z"
+  },
+  {
+    "_id": "1759677114287",
+    "fullName": "يوسف زهير",
+    "phone": "512345678",
+    "university": "جامعة الملك سعود",
+    "major": "هندسة الحاسب",
+    "batch": "2020",
+    "password": "$2a$10$KPdjGpJ4ti1MobnXQ/VK6ON.RFqNp3kQN2mtF54NLSv6EorOZBOBG",
+    "role": "student",
+    "createdAt": "2025-10-05T15:11:54.288Z"
+  }
+]
